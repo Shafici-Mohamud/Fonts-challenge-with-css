@@ -1,0 +1,42 @@
+#wrapper{
+  background-color: #76dee4;
+  border: 10px solid #10889E;
+  width: 500px;
+  padding: 25px;
+}
+
+h1{
+  color: white;
+  font-family: Georgia;
+  font-size: 36px;
+  font-weight: normal;
+  margin-bottom: 50px;
+
+}
+
+h2 {
+  color: #10889E;
+  font-family: Verdana;
+  font-size: 18px;
+  font-weight:  bold;
+
+}
+
+#Color-Links {
+  border:  1px  dashed  white;
+  margin-bottom: 50px;
+  width: 300px;
+
+
+}
+
+#qoraaldheer{
+  margin: auto;
+  font-family: 'Tangerine', serif;
+  font-style: italic;
+  font-weight: 100px;
+  font-variant: normal;
+  font-size: 20px;
+  letter-spacing: 1px;
+
+}
